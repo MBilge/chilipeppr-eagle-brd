@@ -6,4 +6,6 @@
    - Others
    - Richard Miles
  resources:
+   - http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css
+   - http://www.chilipeppr.com/js/require.js
  ...
